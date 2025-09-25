@@ -85,10 +85,10 @@ make_site({
     "conference": "",
     "footnote": [""],
     "URLs": {
-        "paper": "https://arxiv.org/pdf/2508.xxx",
-        "code": "https://github.com/xxx/RealisMotion",
-	    "supplementary": "https://github.com/xxx/RealisMotion/releases/download/v0.0/RealisMotion_supp.pdf",
-        "testset": "https://huggingface.co/datasets/xxx/Trajectory100",
+        "paper": "https://anonymous.4open.science/r/RealisMotion-anonymous-3870/",
+        "code": "https://anonymous.4open.science/r/RealisMotion-anonymous-3870/",
+	    "supplementary": "https://anonymous.4open.science/r/RealisMotion-anonymous-3870/",
+        "testset": "https://anonymous.4open.science/r/RealisMotion-anonymous-3870/",
     },
 })
 //fetch("./paper.json").then(response => response.json).then(json => make_site(json));
